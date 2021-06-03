@@ -1,0 +1,2 @@
+# hello-pyhon
+zamanla gelecek
